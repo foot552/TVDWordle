@@ -20,7 +20,7 @@ const targetWords = [
   "Carol",
   "Tripp",
   "Mason",
-  "Pain",
+  "Pains",
   "Rings",
   "Curse",
   "Spell",
