@@ -2117,7 +2117,7 @@ const targetWords = [
 
 ]
 const dictionary = [
-  "Damon",
+  "damon",
   "Klaus",
   "Elena",
   "Freya",
