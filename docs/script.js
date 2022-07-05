@@ -10535,6 +10535,7 @@ const dictionary = [
   "shuns",
   "shura",
   "shute",
+  "matey",
   "shuts",
   "shwas",
   "shyer",
